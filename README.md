@@ -1,3 +1,2 @@
 # Weather Report
-run npm install 
-Run npm start to view this week's weather report!
+Run npm install then npm start to view this week's weather report!
